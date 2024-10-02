@@ -1,0 +1,8 @@
+*** Ultimo Producto WooCommerce Changelog ***
+
+= 0.2.0 - 2024-10-03 =
+* Added - All functionallity
+* Implementation
+
+= 0.1.0 - 2024-10-02 =
+* Initial release
